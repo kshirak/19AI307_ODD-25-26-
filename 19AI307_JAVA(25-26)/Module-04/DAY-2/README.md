@@ -40,8 +40,8 @@ d. Print the message: [PlayerName] accessed Master Power Switch. Total accesses 
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Vishal S
-RegisterNumber:  212224040364
+Developed by: Kshira K
+RegisterNumber:  212224040166
 */
 ```
 

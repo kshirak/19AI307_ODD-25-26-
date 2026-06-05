@@ -23,8 +23,8 @@ To Write a program to count the number of words in a file.
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Vishal S  
-RegisterNumber:  212224040364
+Developed by: Kshira K  
+RegisterNumber:  212224040166
 */
 ```
 
